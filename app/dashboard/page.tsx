@@ -16,7 +16,7 @@ export default async function DashboardHome() {
             application powered by Auth0 by Okta.
           </p>
           <p className="mt-3 text-muted-foreground">
-            Head over to the Settings Dashboard to explore common administrative
+            Hola Pibe! Head over to the Settings Dashboard to explore common administrative
             capabilities like membership management, single sign-on
             configuration, and security policies.
           </p>
@@ -30,7 +30,7 @@ export default async function DashboardHome() {
           </div>
           <p className="mt-3 text-muted-foreground">
             (You must be logged in with an &quot;admin&quot; role in your
-            organization.)
+            organization.) Entendiste o te lo explico con dedos?
           </p>
         </div>
       </div>
